@@ -1,5 +1,5 @@
 # author: App05-Group84
-#dev(s): @yuxiangZou; @davidChong; @samrudhShetty
+#dev(s): @samrudhShetty
 # creation date: 03/04/2023
 # last modified: 05/05/2023
 # description: create main, main_menu and generate_test_data methods
