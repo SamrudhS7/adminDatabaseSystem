@@ -1,5 +1,5 @@
 # author: App05-Group84
-#dev(s): @yuxiangZou; @davidChong; @samrudhShetty
+#dev(s): @samrudhShetty
 # creation date: 24/04/2023
 # last modified: 05/05/2023
 # description: create Unit subclass and related methods
